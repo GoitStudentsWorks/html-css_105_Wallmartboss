@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/PrGr19-FirstTeamProject/",
+    "build": "vite build --base=/html-css_105_Wallmartboss/",
     "preview": "vite preview"
   },
   "devDependencies": {
